@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "260589515234",
+    "firebase_url": "https://z-7e4d4-default-rtdb.firebaseio.com",
+    "project_id": "z-7e4d4",
+    "storage_bucket": "z-7e4d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260589515234:android:f05ad9812a0e17cb79c9bb",
+        "android_client_info": {
+          "package_name": "com.example.zamazon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260589515234-gkfka2jnlqg9kl5kja0id0du3s4e8pfa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zamazon",
+            "certificate_hash": "81b026dfdfc962758c30e8ed5f3227d7a0d5aeb1"
+          }
+        },
+        {
+          "client_id": "260589515234-u4ubgdjdq0ij37uf1pjf2jafpn2k5oi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4D8fa-HAmB6CszL2nuhxoreRsHL0lwhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260589515234-u4ubgdjdq0ij37uf1pjf2jafpn2k5oi0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
